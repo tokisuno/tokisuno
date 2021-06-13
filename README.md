@@ -8,6 +8,8 @@
 
 > - nvim or nvim, depends on what i'm doing.
 > 
-> - vscode (rarely anymore)
+> - vscode *(rarely anymore)*
 > 
-> - i mainly do everything from my thinkpad or macbook 
+> - thinkpad x1 carbon 3rd gen (manjaro gnome, i5 5600u & intel graphics 5500)
+>
+> - macbook pro 15" 2012 (i7 3rd gen & GT650M)
