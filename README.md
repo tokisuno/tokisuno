@@ -1,8 +1,8 @@
 # tokisuno
 
-- nothing much is going to go here
-
-- made it for the lolz
+> - nothing much is going to go here
+> 
+> - just to track how i am doing w c++ learning
 
 # what i use to code
 
