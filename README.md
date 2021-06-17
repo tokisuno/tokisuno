@@ -2,7 +2,7 @@
 
 > - nothing much is going to go here
 > 
-> - just to track how i am doing w c++ learning
+> - just to track how i am doing w c++/javascript learning
 
 # what i use to code
 
