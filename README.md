@@ -10,6 +10,6 @@
 > 
 > - vscode *(rarely anymore)*
 > 
-> - thinkpad x1 carbon 3rd gen (manjaro gnome, i5 5600u & intel graphics 5500)
+> - thinkpad x1 carbon 3rd gen (fedora 34, i5 5600u & intel graphics 5500)
 >
 > - macbook pro 15" 2012 (i7 3720qm & GT650M)
