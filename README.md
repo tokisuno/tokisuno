@@ -6,7 +6,7 @@
 
 # what i use to code
 
-> - nvim or nvim, depends on what i'm doing.
+> - nvim
 > 
 > - vscode *(rarely anymore)*
 > 
