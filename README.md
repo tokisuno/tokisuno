@@ -1,15 +1,17 @@
 # tokisuno
 
-> - nothing much is going to go here
+> - dotfiles
 >
-> I am tired
+> - website hosting
+> 
+> - personal projects
 
 # what i use to code
 
 > - vim
 > 
-> - vscode *(rarely anymore)*
-> 
 > - old desktop
 >
-> - thinkad x61
+> - thinkpad x61
+> 
+> - thinkpad x220
