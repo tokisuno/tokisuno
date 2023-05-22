@@ -7,3 +7,6 @@
 
 - if you went searching my username and found this, welcome ig xd
 
+## how i made my blog
+
+i use a framework called hugo, which is really fast and easy to pick up. i write everything in markdown and export it into the website repo which is the html and css you guys see.
