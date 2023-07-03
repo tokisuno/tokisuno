@@ -1,11 +1,10 @@
 # tokisuno
 **https://tokisuno.rocks/**
+- if you searched for my username and came here, welcome xd.
+- primarily for: linguistics/latex/linux/rust
 
-- don't expect much to come out of here. just a place to host dots and my blog really. 
-
-- i sometimes contribute to open source but that's normally through feedback on discord rather than programming.
-
-- if you went searching my username and found this, welcome ig xd
+**current setup (t460s)**
+![image](https://github.com/tokisuno/tokisuno/assets/85533116/9b98e040-f96e-4c70-a084-ab34e823ebcf)
 
 ## how i made my blog
 
