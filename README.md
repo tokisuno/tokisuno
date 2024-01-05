@@ -1,5 +1,8 @@
 # tokisuno
 **https://tokisuno.rocks/**
 - if you searched for my username and came here, welcome xd
-- primarily for: linguistics/latex/linux/rust
-- if you're ever wondering if i am still alive, coming here to check my commit history would be your best bet 
+- this git is primarily for:
+  * latex
+  * linux
+
+*「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
