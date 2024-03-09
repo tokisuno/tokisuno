@@ -9,4 +9,4 @@ Currently doing a challenge where I learn C every day until [I complete a textbo
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&size_weight=0.5&count_weight=0.5&hide=html,css)
