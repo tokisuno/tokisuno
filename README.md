@@ -2,10 +2,10 @@
 **https://tokisuno.rocks/**
 - if you searched for my username and came here, welcome xd
 - this git is primarily for:
-  * latex
-  * linux
+  * dotfiles
+  * programming
 
-Currently doing a challenge where I learn C every day until [I complete a textbook](https://github.com/tokisuno/learning-c)
+(Started: 2024-03-07) Currently doing a challenge where I teach myself programming every day for the rest of the year (blog post coming soon).
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
