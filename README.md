@@ -4,8 +4,13 @@
 - this git is primarily for:
   * dotfiles
   * programming
+  * hosting my blog
+- Linguistics stuff isn't really here, but I do use git to save configs for the *tools* I use 
 
-(Started: 2024-03-07) Currently doing a challenge where I teach myself programming every day for the rest of the year (blog post coming soon).
+- (Started: 2024-03-07)
+  * Currently doing a challenge where I teach myself programming every day for the rest of the year 
+  * Goal is to go from C -> Rust
+  * I am (unfortunately) a Rust believer 
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
