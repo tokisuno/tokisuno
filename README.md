@@ -12,4 +12,4 @@
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&size_weight=0.5&count_weight=0.5&hide=html,css,scheme,bash,shell,lua,sed)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&size_weight=0.5&count_weight=0.5&hide=html,css,scheme,bash,shell,lua,sed,tex)
