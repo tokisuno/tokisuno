@@ -2,9 +2,12 @@
 **https://tokisuno.rocks/** | blogger/youtuber
 ## Where I've been
 - TL;DR
-  * I gave up on theoretical linguistics, which is what I thought I wanted to do for the past two years.
-  * As much as I complained about webdev when I was in high-school, it was one of the only times I actually enjoyed programming.
-  * I have been stuck in choice paralysis debating whether I want to run Windows on my PC again, or go crazy with a MacOS KVM (leaning on the latter)
+  * I gave up on theoretical linguistics
+  * Web dev was the only time I enjoyed programming in highschool
+  * I have been stuck in choice paralysis on OS
+  * My options are:
+    1. Run Windows on my PC again
+    2. Go crazy with a MacOS KVM (leaning on the latter)
 
 ## What I am learning 
 - 💻 Web Development
