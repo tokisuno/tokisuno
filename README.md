@@ -15,6 +15,7 @@
 - 🇨🇱 Spanish (B1)
 - 🇨🇦 French  (A2)
 
+## GitHub Streaks
 [![GitHub Streak](https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
