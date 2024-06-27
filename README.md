@@ -18,7 +18,8 @@
 ## GitHub Streaks
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+ 
+ <a href="https://git.io/streak-stats"><img href="https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j"/></a>
 </div>
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
