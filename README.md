@@ -16,10 +16,8 @@
 - 🇨🇦 French  (A2)
 
 ## GitHub Streaks
-
-<div align="center">
- 
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j"/></a>
-</div>
+<a href="https://git.io/streak-stats">
+ <img src="https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j"/>
+</a>
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
