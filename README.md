@@ -6,8 +6,7 @@
 ## Where I've been
 - TL;DR
   * I gave up on theoretical linguistics
-  * Web dev was the only time I enjoyed programming in highschool
-  * Stuck in OS choice paralysis
+  * I am learning web development
 
 ## What I am learning 
 - 💻 Web Development
