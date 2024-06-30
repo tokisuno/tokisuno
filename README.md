@@ -23,6 +23,6 @@
  <img src="https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&hide=html&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&hide=html,lua&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
