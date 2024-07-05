@@ -3,6 +3,19 @@
 
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
+# Milestones
+- [x] Tae Kim - Basic Grammar
+- [x] Tae Kim - Essential Grammar
+- [x] The Odin Project - Foundations
+- [ ] The Odin Project - Javascript
+  - [ ] Intermediate HTML/CSS
+  - [ ] Javascript
+  - [ ] Advanced HTML/CSS
+  - [ ] React
+  - [ ] NodeJS
+  - [ ] Getting hired 
+- [ ] Tae Kim - Special Grammar
+
 ## Where I've been
 - TL;DR
   * I gave up on theoretical linguistics
