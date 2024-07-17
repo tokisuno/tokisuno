@@ -1,7 +1,7 @@
 # tokisuno
-**https://tokisuno.rocks/** | youtuber & occasional blogger
-
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
+
+**https://tokisuno.rocks/** | youtuber & occasional blogger | 学ぶのが大好き！
 
 # Milestones
 - [x] Tae Kim - Basic Grammar
