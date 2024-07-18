@@ -8,7 +8,7 @@
 - [x] Tae Kim - Essential Grammar
 - [x] The Odin Project - Foundations
 - [ ] The Odin Project - Javascript
-  - [ ] Intermediate HTML/CSS
+  - [x] Intermediate HTML/CSS
   - [ ] Javascript
   - [ ] Advanced HTML/CSS
   - [ ] React
