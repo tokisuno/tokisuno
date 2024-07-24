@@ -30,11 +30,13 @@
 - 🇨🇱 Spanish (B1)
 - 🇨🇦 French  (A2)
 
-## GitHub Streaks
+## My Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&hide=html,css,shell&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://git.io/streak-stats">
  <img src="https://streak-stats.demolab.com?user=tokisuno&theme=tokyonight&border_radius=5&date_format=%5BY.%5Dn.j"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&hide=html,css,shell&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
