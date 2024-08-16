@@ -2,24 +2,15 @@
 *「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
 **https://tokisuno.rocks/** | enthusiast of languages of all kinds | 学ぶのが大好き！
-
-# Milestones
-- [x] Tae Kim - Basic Grammar
-- [x] Tae Kim - Essential Grammar
-- [x] The Odin Project - Foundations
-- [ ] The Odin Project - Javascript
-  - [x] Intermediate HTML/CSS
-  - [ ] Javascript
-  - [ ] Advanced HTML/CSS
-  - [ ] React
-  - [ ] NodeJS
-  - [ ] Getting hired 
-- [ ] Tae Kim - Special Grammar
-
-## Where I've been
+# Where I've been
 - TL;DR
   * I gave up on theoretical linguistics
   * I am learning web development
+
+## Milestones
+- [x] Tae Kim - Basic Grammar
+- [x] Tae Kim - Essential Grammar
+- [x] The Odin Project - Foundations
 
 ## What I am learning 
 - 💻 Web Development
