@@ -3,8 +3,8 @@
 
 **https://tokisuno.rocks/** | enthusiast of languages of all kinds
     
-## 何を勉強している
-- 💻 Web Development
+## 何を勉強しています
+- 💻 Web Development (TOP Ruby)
 - 🇯🇵 Japanese (日本語)
 
 ## 言語
