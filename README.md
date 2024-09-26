@@ -1,6 +1,6 @@
 # tokisuno // トキスノ
 
-**https://tokisuno.rocks/** | ruby 💎♦️ & lua ☾ simp
+**https://tokisuno.rocks/** | ruby & lua simp
 
 ## 何を勉強しています
 - 💻 Web Development (TOP Ruby)
