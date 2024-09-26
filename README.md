@@ -1,8 +1,7 @@
 # tokisuno // トキスノ
-*「寒いね」と話しかければ、「寒いね」と答える人のいるあたたかさ。*
 
-**https://tokisuno.rocks/** | enthusiast of languages of all kinds
-    
+**https://tokisuno.rocks/** | ruby 💎♦️ & lua ☾ simp
+
 ## 何を勉強しています
 - 💻 Web Development (TOP Ruby)
 - 🇯🇵 Japanese (日本語)
