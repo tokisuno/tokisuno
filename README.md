@@ -14,4 +14,4 @@
 - python
 - go
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css,json,csv,markdown)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=html,css,json,csv,markdown,glsl,astro)
