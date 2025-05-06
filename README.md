@@ -11,6 +11,7 @@
 ## fav langs
 - lua
 - js
+- ruby
 - python
 - go
 
