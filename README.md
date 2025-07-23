@@ -4,7 +4,8 @@
 
 ## 何を勉強しています
 - 🇯🇵 Japanese (日本語)
-- 💻 Web Development (TOP JavaScript)
+- 🇫🇮 Finnish (Suomi) 
+- 💻 Web Development (FullStackOpen)
 - 📷 Video editing (Davinci Resolve)
 
 ## fav langs
