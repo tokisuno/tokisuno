@@ -9,9 +9,9 @@
 - 📷 Video editing (Davinci Resolve)
 
 ## fav langs
+- typescript
+- javascript
 - lua
-- js
-- ruby
 - python
 - go
 
