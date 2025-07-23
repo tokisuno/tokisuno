@@ -4,7 +4,6 @@
 
 ## 何を勉強しています
 - 🇯🇵 Japanese (日本語)
-- 🇫🇮 Finnish (Suomi) 
 - 💻 Web Development (FullStackOpen)
 - 📷 Video editing (Davinci Resolve)
 
