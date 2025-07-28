@@ -1,6 +1,8 @@
 # tokisuno // トキスノ
 
-**https://tokisuno.rocks/** 
+- [Blog](https://tokisuno.rocks/)
+- [YouTube](https://youtube.com/@tokisuno)
+- [Music](https://www.youtube.com/@skinnyboot)
 
 ## 何を勉強しています
 - 🇯🇵 Japanese (日本語)
@@ -8,7 +10,6 @@
 - 📷 Video editing (Davinci Resolve)
 
 ## fav langs
-- typescript
 - javascript
 - lua
 - python
