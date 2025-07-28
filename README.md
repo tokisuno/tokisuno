@@ -15,4 +15,4 @@
 - python
 - go
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&hide=html,css,markdown,glsl,makefile)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tokisuno&hide=html,css,markdown,glsl,makefile,ruby)
